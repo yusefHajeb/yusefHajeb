@@ -15,10 +15,7 @@
 
 
 </p>
-<h1 align="center">Hi 👋, I'm Yousef Hajeb</h1>
-<h3 align="center">A passionate Flutter developer from Yemen</h3>
-<img align="right" alt="Coding" widht="300" height="200" src="https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusefhajeb&label=Profile%20views&color=0e75b6&style=flat" alt="yusefhajeb" /> </p>
+
 
 - 🔭 I’m currently working on [Rafal Store](https://rafal-nht.com/)
 

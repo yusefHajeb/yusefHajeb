@@ -1,5 +1,7 @@
-[![MasterHead](https://file.rafal.li/bc891)](https://yusefHahjeb.io)
 
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://file.rafal.li/bc891"><img style="width: 70rem; max-width: 100%;" src="https://file.rafal.li/bc891"></a>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Yousef Hajeb</h1>

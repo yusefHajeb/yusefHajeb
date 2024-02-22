@@ -3,7 +3,7 @@
 <!-- Please ⭐ the repo to support our project -->
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=yusefHajeb&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
+ <img src="https://komarev.com/ghpvc/?username=yusefHajeb&label=Profile%20views&color=0e75b6&style=flat" alt="yousefHajeb"> 
 <!--  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23433%26project%3D%26in%3D2160000000">
 <!--  <img src="https://img.shields.io/github/stars/yusefHajeb?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"> -->
   
@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://www.youtube.com/@yosuuf"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
 <a href="https://instagram.com/tech_thought_"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90"></a>
-<a href="https://twitter.com/yousef_hajeb" target="_blank"> <img alt="discord" src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/twitter.gif" width="80"></a>
+<a href="https://twitter.com/yousef_hajeb" target="_blank"> <img alt="discord" src="https://github.com/yusefHajeb/yusefHajeb/blob/main/Files/twitter.gif" width="80"></a>
 </p>
 </h3>
 
